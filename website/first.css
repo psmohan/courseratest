@@ -1,0 +1,10 @@
+.praveen{
+    color: green;
+    background-color: red;
+    width: 200; height: 200;
+}
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style:italic;
+    background-color:black;
+}
